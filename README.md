@@ -89,11 +89,3 @@
   </a>
 </p>
 
----
-
-### 💼 My Projects
-
-- [Project 1](https://github.com/yourusername/project1)
-- [Project 2](https://github.com/yourusername/project2)
-- [Project 3](https://github.com/yourusername/project3)
-
