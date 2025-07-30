@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abraham Ayegba</h1>
-<h3 align="center">A passionate Frontend Developer creating innovative and creative solutions</h3>
+<h3 align="center">A passionate Software Developer creating innovative and creative solutions</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abrahamayegba/">
