@@ -15,7 +15,7 @@
 
 ---
 
-- 🔭 I’m currently working at Econome
+- 🔭 I’m currently working at Virtual Services Group
 - 🌱 I’m currently learning **Remix**
 - 👯 I’m looking to collaborate on innovative web applications, open source projects, and e-commerce platforms. If you’re working on something exciting in these areas or need a frontend developer for your startup or educational platform, let’s connect!
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
