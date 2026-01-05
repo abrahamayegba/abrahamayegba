@@ -36,8 +36,8 @@ I care about clear architecture, reliable systems, and code that stays readable 
 
 - **Verzo** – Invoicing and accounting platform for small businesses  
 - **SFG20 ↔ simPRO Integration** – Data sync platform for compliance and asset data  
-- **HueMatch** – Colour matching web application  
-- **NodeKlawesync** – Node.js data synchronisation service  
+- **HueMatch** – Colour matching web application
+- **AI-Enhanced Search** – Search system with data ingestion, embeddings, and semantic querying for more relevant results
 
 ---
 
