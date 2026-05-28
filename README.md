@@ -7,7 +7,7 @@ Full-stack software engineer building production systems with real constraints.
 <p align="center">
   <a href="https://www.linkedin.com/in/abrahamayegba/">LinkedIn</a> ·
   <a href="mailto:abrahamayegba@gmail.com">Email</a> ·
-  <a href="https://abrahamayegba.dev">Portfolio</a>
+  <a href="https://abrahams-portfolio.vercel.app/">Portfolio</a>
 </p>
 
 ---
